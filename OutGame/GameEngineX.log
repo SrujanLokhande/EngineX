@@ -1,0 +1,7 @@
+﻿  HomingComponent.cpp
+C:\Users\pg24gavin\Desktop\Engine X\GavinSrujanEngine\EngineXForStudent\HomingComponent.cpp(71,64): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  GameEngineX.vcxproj -> C:\Users\pg24gavin\Desktop\Engine X\GavinSrujanEngine\EngineXForStudent\Build\GameEngineXd.exe
